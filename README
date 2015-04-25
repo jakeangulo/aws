@@ -1,0 +1,11 @@
+A collection of stand-alone AWS Boto scripts written in python
+http://boto.readthedocs.org/en/latest/index.html
+
+Disclaimer:
+These scripts have been writen for specific requirements - they are tested to work - however 
+they are only provided to aid you in creating scripts specific to your own environment.
+
+I suggest you test these first before using on anything that resembles production environment.
+Or better yet re-write them for your own purpose!
+
+Pull Requests are most welcome!
