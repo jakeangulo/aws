@@ -1,0 +1,4 @@
+This is a command-line utility to manage AWS Route 53.
+
+This doesnt use the official AWS Boto library, instead it uses:
+https://github.com/gtaylor/python-route53
