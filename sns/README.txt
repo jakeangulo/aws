@@ -100,3 +100,5 @@ And all Endpoint ARNs will be written to output file:
 cat ep-arns-output.txt
 arn:aws:sns:us-east-1:XXXXXXXXXXXX:endpoint/APNS/MyApplicationName/10c9a7e3-e8c1-361f-b503-79faa5287f6d
 arn:aws:sns:us-east-1:XXXXXXXXXXXX:endpoint/APNS/MyApplicationName/563ff065-4564-3bf9-a4c1-d99b27196cc9
+
+.
